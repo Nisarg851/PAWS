@@ -1,0 +1,70 @@
+[
+    {
+      "id": "1",
+      "title": "Corporate Environmental Violations at XYZ Corp",
+      "description":
+        "Evidence of illegal waste disposal and environmental regulation violations at XYZ Corporation manufacturing plant.",
+      "tags": ["Environmental", "Corporate", "Pollution"],
+      "date": "2023-11-15",
+      "views": 1243,
+      "upvotes": 89,
+      "comments": 32,
+      "validated": true
+    },
+    {
+      "id": "2",
+      "title": "Government Contract Fraud Investigation",
+      "description": "Documentation of fraudulent billing practices in government contracts worth millions of dollars.",
+      "tags": ["Government", "Fraud", "Contracts"],
+      "date": "2023-11-10",
+      "views": 876,
+      "upvotes": 124,
+      "comments": 45,
+      "validated": true
+    },
+    {
+      "id": "3",
+      "title": "Healthcare Data Privacy Breach",
+      "description":
+        "Evidence showing systematic mishandling of patient data and HIPAA violations at major hospital chain.",
+      "tags": ["Healthcare", "Privacy", "Data"],
+      "date": "2023-11-05",
+      "views": 654,
+      "upvotes": 76,
+      "comments": 28,
+      "validated": true
+    },
+    {
+      "id": "4",
+      "title": "Financial Misconduct at Investment Firm",
+      "description": "Documents revealing market manipulation and insider trading at prominent investment firm.",
+      "tags": ["Finance", "Fraud", "Trading"],
+      "date": "2023-10-28",
+      "views": 1532,
+      "upvotes": 210,
+      "comments": 87,
+      "validated": true
+    },
+    {
+      "id": "5",
+      "title": "Tech Company Data Collection Practices",
+      "description": "Internal documents showing unauthorized collection and selling of user data by major tech platform.",
+      "tags": ["Technology", "Privacy", "Data"],
+      "date": "2023-10-20",
+      "views": 2145,
+      "upvotes": 315,
+      "comments": 124,
+      "validated": false
+    },
+    {
+      "id": "6",
+      "title": "Workplace Safety Violations in Manufacturing",
+      "description": "Evidence of ignored safety protocols and unreported workplace injuries at industrial facility.",
+      "tags": ["Workplace", "Safety", "Manufacturing"],
+      "date": "2023-10-15",
+      "views": 587,
+      "upvotes": 92,
+      "comments": 41,
+      "validated": false
+    }
+]
