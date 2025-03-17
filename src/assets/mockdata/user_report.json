@@ -1,0 +1,25 @@
+[
+    {
+      "id": "1",
+      "title": "Corporate Environmental Violations at XYZ Corp",
+      "description":
+        "Evidence of illegal waste disposal and environmental regulation violations at XYZ Corporation manufacturing plant.",
+      "tags": ["Environmental", "Corporate", "Pollution"],
+      "date": "2023-11-15",
+      "views": 1243,
+      "upvotes": 89,
+      "comments": 32,
+      "validated": true
+    },
+    {
+      "id": "2",
+      "title": "Government Contract Fraud Investigation",
+      "description": "Documentation of fraudulent billing practices in government contracts worth millions of dollars.",
+      "tags": ["Government", "Fraud", "Contracts"],
+      "date": "2023-11-10",
+      "views": 876,
+      "upvotes": 124,
+      "comments": 45,
+      "validated": false
+    }
+  ]

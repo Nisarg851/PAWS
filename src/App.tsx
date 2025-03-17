@@ -4,6 +4,7 @@ import AuthPage from "./Pages/AuthPage";
 import BrowsePage from "./Pages/BrowsePage";
 import ReportDetailPage from "./Pages/ReportDetailPage";
 import CreateReportPage from "./Pages/CreateReportPage";
+import ProfilePage from "./Pages/ProfilePage";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Route path="/browse" element={<BrowsePage />} />
       <Route path="/report/:id" element={<ReportDetailPage />} />
       <Route path="/create" element={<CreateReportPage />} />
+      <Route path="/profile" element={<ProfilePage />} />
     </Routes>
   )
 }

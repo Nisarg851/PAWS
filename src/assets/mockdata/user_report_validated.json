@@ -1,0 +1,25 @@
+[
+    {
+      "id": "3",
+      "title": "Healthcare Data Privacy Breach",
+      "description":
+        "Evidence showing systematic mishandling of patient data and HIPAA violations at major hospital chain.",
+      "tags": ["Healthcare", "Privacy", "Data"],
+      "date": "2023-11-05",
+      "views": 654,
+      "upvotes": 76,
+      "comments": 28,
+      "validated": true
+    },
+    {
+      "id": "4",
+      "title": "Financial Misconduct at Investment Firm",
+      "description": "Documents revealing market manipulation and insider trading at prominent investment firm.",
+      "tags": ["Finance", "Fraud", "Trading"],
+      "date": "2023-10-28",
+      "views": 1532,
+      "upvotes": 210,
+      "comments": 87,
+      "validated": true
+    }
+  ]
