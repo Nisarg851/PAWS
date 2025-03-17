@@ -6,12 +6,10 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import { Badge } from "@/components/ui/badge"
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Search, Filter, Clock, Eye, ThumbsUp, MessageSquare, Plus } from "lucide-react"
-import { AppHeader } from "../components/ui/AppHeader"
-// import { AppHeader } from "@/components/ui/AppHeader"clear
-
+import { AppHeader } from "@/components/AppHeader"
 
 // Mock data for reports
-import MOCK_REPORTS from "../assets/mockdata/reports.json" 
+import MOCK_REPORTS from "@/assets/mockdata/reports.json" 
 
 export default function BrowsePage() {
   const [searchQuery, setSearchQuery] = useState("")
