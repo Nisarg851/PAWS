@@ -1,0 +1,45 @@
+{
+    "id": 1,
+    "title": "Corporate Environmental Violations at XYZ Corp",
+    "description":
+      "Evidence of illegal waste disposal and environmental regulation violations at XYZ Corporation manufacturing plant. This report includes photographic evidence, internal memos, and water quality test results that demonstrate a pattern of willful non-compliance with environmental regulations spanning over three years.\n\nThe violations include dumping of toxic chemicals into local waterways, falsification of environmental compliance reports, and intimidation of employees who raised concerns internally. The evidence suggests that senior management was aware of these practices and actively worked to conceal them from regulators and the public.",
+    "tags": ["Environmental", "Corporate", "Pollution"],
+    "date": "2023-11-15",
+    "views": 1243,
+    "upvotes": 89,
+    "totalcomments": 32,
+    "validated": true,
+    "validatedBy": 3,
+    "files": [
+      { "id": "1", "name": "internal_memo_20230512.pdf", "type": "document", "size": "1.2 MB" },
+      { "id": "2", "name": "water_quality_tests.xlsx", "type": "document", "size": "845 KB" },
+      { "id": "3", "name": "site_photo_evidence.jpg", "type": "image", "size": "3.4 MB" },
+      { "id": "4", "name": "employee_testimonies.pdf", "type": "document", "size": "2.1 MB" }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "username": "validator42",
+        "content":
+          "I have cross-referenced the water quality tests with EPA standards, and they clearly show contamination levels far exceeding legal limits.",
+        "date": "2023-11-16",
+        "isValidator": true
+      },
+      {
+        "id": "2",
+        "username": "environmentalLawyer",
+        "content":
+          "This evidence would be sufficient to initiate legal proceedings. Have these findings been reported to the EPA or state environmental agencies?",
+        "date": "2023-11-17",
+        "isValidator": false
+      },
+      {
+        "id": "3",
+        "username": "anonymous_user",
+        "content":
+          "I worked at a different XYZ facility and witnessed similar practices. This appears to be a company-wide issue rather than isolated to one location.",
+        "date": "2023-11-18",
+        "isValidator": false
+      }
+    ]
+}

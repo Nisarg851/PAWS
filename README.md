@@ -1,54 +1,22 @@
-# React + TypeScript + Vite
+>[!Important]
+>_This platform is a personal project currently under development. It is not yet suitable for use as a formal whistleblowing platform. Please refrain from uploading sensitive information. User feedback is welcomed to support ongoing development._
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# PAWS
+### Platform for Anonymous WistleBlowing Securely
+Expose corruption and misconduct without exposing yourself. PAWS provides a secure, anonymous platform for whistleblowers to share evidence and collaborate with others.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/b912ca7f-f166-45ea-bc53-ff180c61fcb8)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Mission
+PAWS exists to empower individuals to safely expose corruption, misconduct, and unethical behavior without fear of retaliation. We believe that transparency is essential for a just society, and that whistleblowers play a crucial role in holding power to account.
+By providing a secure platform for anonymous reporting, we aim to reduce the personal risk faced by those who speak truth to power, while ensuring that important information reaches the public.
 
-## Expanding the ESLint configuration
+### Vision
+We envision a world where corruption and misconduct cannot thrive in secrecy, where those who witness wrongdoing have a safe channel to report it, and where the public has access to information that powerful interests might prefer to keep hidden.
+PAWS strives to be the most trusted, secure, and effective platform for whistleblowers worldwide, continuously improving our security measures and user experience to better serve those who take risks to expose the truth.
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+> [!Caution]
+> - While PAWS takes extensive measures to protect user anonymity and security, no system can guarantee absolute protection against all potential threats. Users should exercise caution and follow our security recommendations when using the platform.
+> - PAWS does not encourage illegal activities. Users are responsible for ensuring that their actions comply with applicable laws and regulations in their jurisdiction. In many countries, whistleblower protection laws exist to shield those who report certain types of misconduct.
+> - The platform administrators do not have access to user identities and cannot respond to legal requests for such information. All content is encrypted and stored in a decentralized manner to resist censorship and takedown attempts.
